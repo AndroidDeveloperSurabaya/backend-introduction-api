@@ -1,5 +1,4 @@
 # backend-introduction-api
 
 ## how to run
-go build
-./user-service
+go build && ./user-service
